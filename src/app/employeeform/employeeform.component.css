@@ -1,0 +1,24 @@
+.divbody{
+    padding: 20% 200% 20% 20%;
+}
+
+/* .divform{
+    padding: 30%;
+} */
+
+@media only screen and (min-device-width: 570px)and (max-device-width: 900px){
+    .divbody{
+        padding: 5% 5% 5% 5%;
+        
+    }
+    
+  }
+@media only screen and (min-device-width: 300px){
+    .divbody{
+        padding: 0% 3% 0% 10%;
+        
+    }
+    .divform{
+        padding: 20%;
+    }
+  }
